@@ -147,16 +147,18 @@ Building beginner-level analytics and chart experiments to identify trends and p
 
 ---
 
-## ✦ GitHub Stats
+## ✦ GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luckysuzain-ux&show_icons=true&hide_border=true&bg_color=1a1033&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=A78BFA" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysuzain-ux&layout=compact&hide_border=true&bg_color=1a1033&title_color=C4B5FD&text_color=DDD6FE" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luckysuzain-ux&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysuzain-ux&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckysuzain-ux&hide_border=true&background=1a1033&ring=A78BFA&fire=C4B5FD&currStreakLabel=DDD6FE&sideLabels=DDD6FE&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckysuzain-ux&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff&dates=8b949e" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-<p align="center"><i>good code ~ good vibes ♡</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=100&section=footer" width="100%"/>
+<p align="center"><i>⚡ Code. Create. Inspire. ♡</i></p>
+
