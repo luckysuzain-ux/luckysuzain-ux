@@ -24,8 +24,7 @@
 I'm a beginner developer who loves turning ideas into small projects. I enjoy problem solving, exploring Java, Python and learning new things every day.
 
 - 📍 Gujarat, India
-- 🌐 [suzainshaikh.dev](https://suzainshaikh.dev)
-- ✉️ suzainshaikh09@gmail.com
+- ✉️ luckysuzain@gmail.com
 - 🗓️ Joined July 2026
 
 > ✨ Curious · Creative · Focused · Learning · Growing
