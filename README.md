@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="C:\suzyCCNK\github-profile\banner (1).png"
+  <img src=<img width="1536" height="272" alt="banner" src="https://github.com/user-attachments/assets/dbac283c-b04c-47eb-835a-3971acc584be" />
+
 width="100%" alt="Suzain Shaikh - Java, Python, Learn, Build"/>
 </p>
 
