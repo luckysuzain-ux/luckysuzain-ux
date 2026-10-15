@@ -62,33 +62,72 @@ I'm a beginner developer who loves turning ideas into small projects. I enjoy pr
 </p>
 
 ---
+<table align="center" width="100%">
+<tr>
+<td colspan="3" align="center">
 
-## ✦ Featured Projects
 
-<table align="center">
+## ✨ Featured Projects
+
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Student Marketplace
-A student-only platform to buy, sell or give away items nearby. Focused on local community & safety.
+### 🛒 Restaurant Branding & Packaging  
+Complete case study with dieline, mockups, and signage for takeaway food packaging.  
 
-`Java` `Web` `UI/UX`
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 VendorScore
-Simple bilingual loan assessment platform for small vendors with a challenge system.
-
-`Python` `Data` `Web`
+`Branding` `Packaging` `Illustration`
 
 </td>
 <td width="33%" valign="top">
 
-### 🎨 Portfolio Website
-A personal portfolio to showcase my skills, projects and journey in tech + design.
+### 🎨 Cherry Lime VS Code Theme  
+Polished JSON theme with custom UI and syntax colors for a modern coding experience.  
 
-`HTML` `CSS` `JavaScript`
+`VS Code` `UI/UX` `Theme Design`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Interior Color Concept  
+Finished palette design (#FFF0CA, #FF872E, #619BC6) applied to restaurant interiors.  
+
+`Design` `Color Theory` `Interior`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center" style="padding-top:40px;">
+
+## 🔄 Ongoing Projects
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Java Collections Practice  
+Exploring Lists, Arrays, Sets, and Maps with playful beginner-level outputs.  
+
+`Java` `Programming` `Learning`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠 Maya Bevel Options Fix  
+Restoring the missing Fraction field in the Bevel Options popup to bring back original UI functionality.  
+
+`Maya` `UI/UX` `Troubleshooting`
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data Science Visualization  
+Building beginner-level analytics and chart experiments to identify trends and patterns in datasets.  
+
+`Python` `Data Science` `Visualization`
 
 </td>
 </tr>
