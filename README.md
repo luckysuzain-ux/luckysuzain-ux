@@ -119,8 +119,5 @@ A personal portfolio to showcase my skills, projects and journey in tech + desig
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckysuzain-ux&hide_border=true&background=1a1033&ring=A78BFA&fire=C4B5FD&currStreakLabel=DDD6FE&sideLabels=DDD6FE&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=A78BFA" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckysuzain-ux&bg_color=1a1033&color=C4B5FD&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 <p align="center"><i>good code ~ good vibes ♡</i></p>
