@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Suzain Shaikh - Java, Python, Learn, Build"/>
+  <img src="![Uploading banner (1).png…]()
+" width="100%" alt="Suzain Shaikh - Java, Python, Learn, Build"/>
 </p>
 
 <div align="center">
