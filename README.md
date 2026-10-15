@@ -38,9 +38,11 @@ I'm a beginner developer who loves turning ideas into small projects. I enjoy pr
 > ✨ Curious · Creative · Focused · Learning · Growing
 
 ---
-
-## ✦ Skills
-
+<div align = center>
+  <h1 style="font-size: 40px; color: #4C1D95;">
+   ✦ What I'm Exploring ✦
+  </h1>
+</div>
 <table align="center">
 <tr>
 <td width="50%" valign="top">
