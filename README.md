@@ -1,16 +1,28 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!--
-**luckysuzain-ux/luckysuzain-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Front-end+Developer;Data+Science+Learner;Building+cool+things)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOURNAME)
+
+</div>
+
+## ✨ About Me
+- 🔭 Currently working on: YOUR PROJECT
+- 🌱 Learning: React, Python, Machine Learning
+- 💬 Ask me about: HTML, CSS, JavaScript
+- ⚡ Fun fact: YOUR FUN FACT
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma&theme=dark" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
