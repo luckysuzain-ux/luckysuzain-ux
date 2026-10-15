@@ -1,19 +1,23 @@
-<p align="center">
-  <img src=<img width="1536" height="272" alt="banner" src="https://github.com/user-attachments/assets/dbac283c-b04c-47eb-835a-3971acc584be" />
-
-width="100%" alt="Suzain Shaikh - Java, Python, Learn, Build"/>
+<g class="shoot">
+  <g transform="translate(240 10) rotate(18)">
+    <rect width="110" height="2.5" rx="1.2" fill="url(#trail)"/>
+    <circle cx="110" cy="1.2" r="2.8" fill="#fff"/>
+  </g>
+</g>
+<rect class="sheen" x="0" y="0" width="200" height="272" fill="url(#sheen)" transform="skewX(-20)"/>
+</svg>
+<p>
+  <img width="1536" height="272" alt="banner-animated" src="https://github.com/user-attachments/assets/1be06d94-0db3-4060-8945-0a8ab6cf0719" />
 </p>
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=small+steps+build+big+dreams;Better+Code.+Brighter+Future.;Code+%C2%B7+Design+%C2%B7+Create+%C2%B7+Repeat)
-
 [![Email](https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=C4B5FD)](mailto:suzainshaikh09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1033?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD)](https://suzainshaikh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1033?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0M0QjVGRCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/YOUR-HANDLE)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EDE9FE&height=110&section=header&text=About%20Me&fontSize=32&fontColor=4C1D95&fontAlignY=50" width="100%"/>
 
 </div>
-
----
+-------------------------------------------------------------------
 
 ## ✦ About Me ✦
 
